@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sunidhi Kumari",
+    "role": "Full Stack Developer",
+    "skills": "HTML, CSS, JS, Node.js"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "role": "Frontend Developer",
+    "skills": "React, Tailwind, Bootstrap"
+  },
+  {
+    "id": 3,
+    "name": "Priya Verma",
+    "role": "Backend Developer",
+    "skills": "Node.js, Express, MongoDB"
+  },
+  {
+    "id": 1762589654716,
+    "name": "Riya Tiwari",
+    "role": "Mern Stack Developer",
+    "skills": "Html, sql,css, bootstrap, javascript "
+  }
+]
