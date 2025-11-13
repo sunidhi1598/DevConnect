@@ -1,20 +1,20 @@
-👩‍💻 DevConnect – Developer Directory
-🚀 Live Demo
+ DevConnect – Developer Directory
+ Live Demo
 
-🔗 https://devconnect-ur7i.onrender.com/
+ https://devconnect-ur7i.onrender.com/
 
-📖 Overview
+ Overview
 
 DevConnect is a lightweight developer directory web app built using Node.js, Express, and Bootstrap.
 It demonstrates full API + frontend integration by allowing users to view, add, and filter developer profiles in real-time.
 
-💡 Why I Built It
+Why I Built It ?
 
 I built this project to practice REST API development, frontend integration using Fetch, and Bootstrap UI design — all while keeping it simple and fast to deploy.
 
 This app shows that I can create APIs, connect them to a user interface, and deploy a working full-stack application.
 
-⚙️ Features
+Features
 
 ✅ Fetch and display developer list (GET API)
 ✅ Add new developer (POST API)
@@ -23,13 +23,13 @@ This app shows that I can create APIs, connect them to a user interface, and dep
 ✅ Easy JSON-based data storage
 ✅ Deployed and live on Render
 
-🧰 Tech Stack
+Tech Stack
 Layer	Technology
 Frontend	HTML, Bootstrap 5, Vanilla JS (Fetch API)
 Backend	Node.js, Express.js
 Database	Local JSON File (Optional: MongoDB)
 Deployment	Render (Free Hosting)
-🧠 How It Works
+How It Works
 
 The backend serves two main endpoints:
 
